@@ -4,7 +4,7 @@ We present an unsupervised deep clustering framework based on Deep Embedded Clus
 The code provided here demonstrates the model training using data from Site 1, part of our study on analyzing traffic-induced seismic signals at urban scales.
 
 # Training dataset:
-The dataset used in this study can be downloaded from [Zenodo](https://zenodo.org/). Please ensure that you download the appropriate dataset before running the code.
+The dataset used in this study can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.15229794). Please ensure that you download the appropriate dataset before running the code.
 
 # Requirements-Package Versions:
 •Python == 3.9.19
