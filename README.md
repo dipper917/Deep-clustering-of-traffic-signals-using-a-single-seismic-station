@@ -16,12 +16,15 @@ The dataset used in this study can be downloaded from [Zenodo](https://doi.org/1
 •h5py == 3.11.0
 
 # References:
-Xie, J., Girshick, R., & Farhadi, A. (2016). Unsupervised deep embedding for clustering analysis. In Proceedings of the 33rd International Conference on Machine Learning (pp. 478–487). PMLR. Retrieved from https://proceedings.mlr.press/v48/xieb16.html
-Snover, D., Johnson, C. W., Bianco, M. J., & Gerstoft, P. (2021). Deep Clustering to Identify Sources of Urban Seismic Noise in Long Beach, California. Seismological Research Letters, 92(2A), 1011–1022. https://doi.org/10.1785/0220200164
-Mousavi, S. M., Zhu, W., Ellsworth, W., & Beroza, G. (2019). Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders. IEEE Geoscience and Remote Sensing Letters, 16(11), 1693–1697. 
+Xie, J., Girshick, R., & Farhadi, A. (2016). Unsupervised deep embedding for clustering analysis. In Proceedings of the 33rd International Conference on Machine Learning (pp. 478–487). PMLR. Retrieved from https://proceedings.mlr.press/v48/xieb16.html  
+
+Snover, D., Johnson, C. W., Bianco, M. J., & Gerstoft, P. (2021). Deep Clustering to Identify Sources of Urban Seismic Noise in Long Beach, California. Seismological Research Letters, 92(2A), 1011–1022. https://doi.org/10.1785/0220200164  
+
+Mousavi, S. M., Zhu, W., Ellsworth, W., & Beroza, G. (2019). Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders. IEEE Geoscience and Remote Sensing Letters, 16(11), 1693–1697. https://doi.org/10.1109/LGRS.2019.2909218  
 
 # Related Code Repositorys:
-https://doi.org/10.1109/LGRS.2019.2909218
-https://github.com/dsnover/Unsupervised_Machine_Learning_for_Urban_Seismic_Noise
-https://github.com/smousavi05/Unsupervised_Deep_Learning
+https://github.com/dsnover/Unsupervised_Machine_Learning_for_Urban_Seismic_Noise  
+
+https://github.com/smousavi05/Unsupervised_Deep_Learning  
+
 https://github.com/Tony607/Keras_Deep_Clustering
