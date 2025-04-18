@@ -7,19 +7,19 @@ The code provided here demonstrates the model training using data from Site 1, p
 The dataset used in this study can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.15229794). Please ensure that you download the appropriate dataset before running the code.
 
 # Requirements-Package Versions:
-•Python == 3.9.19  
+• Python == 3.9.19  
 
-•TensorFlow == 2.11.0  
+• TensorFlow == 2.11.0  
 
-•numpy == 1.26.4  
+• numpy == 1.26.4  
 
-•scikit-learn == 1.5.2  
+• scikit-learn == 1.5.2  
 
-•pandas == 2.2.3  
+• pandas == 2.2.3  
 
-•matplotlib == 3.9.2  
+• matplotlib == 3.9.2  
 
-•h5py == 3.11.0
+• h5py == 3.11.0
 
 # References:
 Xie, J., Girshick, R., & Farhadi, A. (2016). Unsupervised deep embedding for clustering analysis. In Proceedings of the 33rd International Conference on Machine Learning (pp. 478–487). PMLR. Retrieved from https://proceedings.mlr.press/v48/xieb16.html  
@@ -28,7 +28,7 @@ Snover, D., Johnson, C. W., Bianco, M. J., & Gerstoft, P. (2021). Deep Clusterin
 
 Mousavi, S. M., Zhu, W., Ellsworth, W., & Beroza, G. (2019). Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders. IEEE Geoscience and Remote Sensing Letters, 16(11), 1693–1697. https://doi.org/10.1109/LGRS.2019.2909218  
 
-# Related Code Repositorys:
+## Related Code Repositorys:
 https://github.com/dsnover/Unsupervised_Machine_Learning_for_Urban_Seismic_Noise  
 
 https://github.com/smousavi05/Unsupervised_Deep_Learning  
