@@ -7,12 +7,18 @@ The code provided here demonstrates the model training using data from Site 1, p
 The dataset used in this study can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.15229794). Please ensure that you download the appropriate dataset before running the code.
 
 # Requirements-Package Versions:
-•Python == 3.9.19
-•TensorFlow == 2.11.0
-•numpy == 1.26.4
-•scikit-learn == 1.5.2
-•pandas == 2.2.3
-•matplotlib == 3.9.2
+•Python == 3.9.19  
+
+•TensorFlow == 2.11.0  
+
+•numpy == 1.26.4  
+
+•scikit-learn == 1.5.2  
+
+•pandas == 2.2.3  
+
+•matplotlib == 3.9.2  
+
 •h5py == 3.11.0
 
 # References:
