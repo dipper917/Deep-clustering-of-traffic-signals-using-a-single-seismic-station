@@ -9,7 +9,7 @@ The Traffic-induced Signals Simulation folder includes Python code for simulatin
 • SeismicCurve: Plots seismic waveforms as time-offset sections.  
 
 Field data can be read and segmented using the provided MATLAB code. 
-The field dataset used in this study can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.15229794). Please ensure that you download the appropriate dataset before running the code.  
+The field dataset used in this study can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.15239036). Please ensure that you download the appropriate dataset before running the code.  
 
 The Model folder contains the trained DEC model files for the three sites.  
 The label folder provides the labels of signal segments based on video annotations.
