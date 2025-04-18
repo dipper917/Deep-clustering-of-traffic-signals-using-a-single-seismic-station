@@ -4,8 +4,8 @@ We present an unsupervised deep clustering framework based on Deep Embedded Clus
 The code provided here demonstrates the model training using data from Site 1, part of our study on analyzing traffic-induced seismic signals at urban scales. The implementation is adapted and modified from previous works(J. Xie et al., 2016; Snover et al., 2021; Mousavi et al., 2019).  
 
 # Simulation and Field Data
-The Traffic-induced Signals Simulation folder includes Python code for simulating traffic-induced signals. Key functions are:
-• col2row: Ensures correct vector orientation for matrix operations in seismic simulations.
+The Traffic-induced Signals Simulation folder includes Python code for simulating traffic-induced signals. Key functions are:  
+• col2row: Ensures correct vector orientation for matrix operations in seismic simulations.  
 • SeismicCurve: Plots seismic waveforms as time-offset sections.  
 
 Field data can be read and segmented using the provided MATLAB code. 
@@ -13,17 +13,11 @@ The field dataset used in this study can be downloaded from [Zenodo](https://doi
 
 # Requirements-Package Versions:
 • Python == 3.9.19  
-
 • TensorFlow == 2.11.0  
-
 • numpy == 1.26.4  
-
 • scikit-learn == 1.5.2  
-
 • pandas == 2.2.3  
-
 • matplotlib == 3.9.2  
-
 • h5py == 3.11.0
 
 # References:
